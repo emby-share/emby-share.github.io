@@ -1,3 +1,12 @@
+## Welcome to EmbyShares
+
+
+Below you are able to find verified providers.
+
+If you are a provider and would like to be added/removed from the list please submit pull request to github.
+
+
+
 ### LalaWeb
 - Products: Emby Shares
 - Website - https://lalaweb.cc/
